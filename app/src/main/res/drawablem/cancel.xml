@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="56dp"
+    android:viewportWidth="56"
+    android:viewportHeight="56">
+    <!-- Rounded Button Background (semi-transparent red/dark) -->
+    <path
+        android:fillColor="#55FF4B4B"
+        android:pathData="M28,0 A28,28 0,1,0 28,56 A28,28 0,1,0 28,0 Z" />
+    <!-- Close "X" Cross Icon -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M38,20.8 L35.2,18 L28,25.2 L20.8,18 L18,20.8 L25.2,28 L18,35.2 L20.8,38 L28,30.8 L35.2,38 L38,35.2 L30.8,28 Z" />
+</vector>

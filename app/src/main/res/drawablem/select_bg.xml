@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="56dp"
+    android:viewportWidth="200"
+    android:viewportHeight="56">
+    <!-- Rounded Pill violet Background -->
+    <path
+        android:fillColor="#FF8B5CF6"
+        android:pathData="M28,0 L172,0 A28,28 0,0,1 200,28 L200,28 A28,28 0,0,1 172,56 L28,56 A28,28 0,0,1 0,28 L0,28 A28,28 0,0,1 28,0 Z" />
+    <!-- Landscape wallpaper icon at coordinates (24, 16) -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M27,16 H45 C46.1,16 47,16.9 47,18 V34 C47,35.1 46.1,36 45,36 H27 C25.9,36 25,35.1 25,34 V18 C25,16.9 25.9,16 27,16 Z" />
+    <!-- Double Peak icon representation inside -->
+    <path
+        android:fillColor="#FF8B5CF6"
+        android:pathData="M26,33 L32,24 L36,30 L41,21 L46,33 Z" />
+</vector>
